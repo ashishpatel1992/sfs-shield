@@ -1,0 +1,27 @@
+.sfs-progress {
+	background-color: #f3f3f3;
+	border: 1px solid #ddd;
+	height: 20px;
+	width: 100%;
+	margin: 10px 0;
+}
+
+#sfs-progress-fill {
+	background-color: #0073aa;
+	height: 100%;
+	transition: width 0.3s ease-in-out;
+}
+
+.notice-success {
+	background: #dff0d8;
+	border-left: 4px solid #4CAF50;
+	padding: 10px;
+	margin: 5px 0;
+}
+
+.notice-error {
+	background: #f2dede;
+	border-left: 4px solid #d9534f;
+	padding: 10px;
+	margin: 5px 0;
+}
